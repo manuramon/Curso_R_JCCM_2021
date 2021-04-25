@@ -1,9 +1,9 @@
 # Curso_R_JCCM_2021
-Curso de Introducción a R -  Formación JCCM 2021
+## Curso de Introducción a R -  Formación JCCM 2021
 
 **Denominación del curso:** Introducción al paquete estadístico R
 
-**Objetivos:** Realizar una introducción general al uso del programa R, así como destacar el potencial de dicho programa para el análisis estadístico de datos. Durante este curso, los alumnos aprenderán a instalar el programa,
+**Objetivos:** Realizar una introducción general al uso del programa R, así como destacar el potencial de dicho programa para el análisis estadístico de datos.
 
 **Contenido:**
 1. Introducción al entorno R.
