@@ -7,9 +7,9 @@ Curso de Introducción a R -  Formación JCCM 2021
 
 **Contenido:**
 1. Introducción al entorno R.
-2. Instalación del programa R. Instalación de librerías
-3. Espacio de trabajo. R scripts. Tipo de objetos en R
+2. Instalación del programa R. Instalación de librerías.
+3. Espacio de trabajo. R scripts. Tipo de objetos en R.
 4. Lectura/escritura de datos (I/O) en R.
-5. Manejo de datos: creación/transformación de variables, filtrado de datos, condicionales (if statements), do loops.
+5. Manejo de datos: creación/transformación de variables, filtrado de datos, condicionales (if statements).
 6. Representación gráfica de datos. Como obtener gráficos para publicaciones
-7. Ejemplo de análisis de datos completo
+7. Ejemplo de análisis de datos completo.
