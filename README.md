@@ -1,5 +1,6 @@
 # Curso_R_JCCM_2021
 ## Curso de Introducción a R -  Formación JCCM 2021
+## Manuel Ramon, 26 a 29 de abril 2021
 
 **Denominación del curso:** Introducción al paquete estadístico R
 
